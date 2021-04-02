@@ -1,0 +1,9 @@
+ders notları: 
+eğer gitbashde branchları değiştireceksen adımlar
+git branch
+git checkout main
+yeni eklediğim notlar (githupda oluşturuldu)
+.
+.
+.
+
